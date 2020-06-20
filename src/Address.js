@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 
 
 import ItemForm from "./ItemForm";
-import StateDrop from "./StateDrop";
 import getCountries from"./GetCountries";
 import validate from "./ValidationRules"
 
